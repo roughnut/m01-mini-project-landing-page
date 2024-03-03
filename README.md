@@ -1,6 +1,6 @@
 # Bootcamp Module 1 Mini Project
 
-Under construction landing page
+To build an under construction landing page.
 
 ## Description
 
